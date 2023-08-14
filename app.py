@@ -6,4 +6,4 @@ print(f"source:{source}")
 
 for i in range(1,6):
     generated = random.sample(source,len(source))
-    print(f"generated {i}: {generated}")
+    print(f"Form {i}: {generated}")
